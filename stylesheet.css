@@ -18,7 +18,7 @@ a {
 }
 
 .top-wrapper {
-  padding: 180px 0 180px 0;
+  padding: 180px 0 280px 0;
   background-image: url(t2_629_bk_top_image.jpg);
   background-size: cover;
   color: white;
@@ -123,7 +123,7 @@ header {
 .heading {
   padding-top: 50px;
   padding-bottom: 50px;
-  color: #5f5d60;
+  color: black;
 }
 
 .heading h2 {
