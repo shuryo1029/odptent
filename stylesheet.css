@@ -116,8 +116,10 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  
-  
+}
+
+.lesson-wrapper img{
+  width:90%;
 }
 
 .heading {
