@@ -139,8 +139,12 @@ header {
 }
 
 .shoplist img{
-  padding-bottom:20px;
-  padding-right:30px;
+  padding-bottom:30px;
+  padding-right:35px;
+}
+
+img{
+  width:90%;
 }
 
 
