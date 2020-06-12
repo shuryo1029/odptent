@@ -134,6 +134,11 @@ header {
   padding-bottom:20px;
 }
 
+.shoplist img{
+  padding-right:30px;
+}
+
+
 .lesson {
   float: left;
   width: 25%;
