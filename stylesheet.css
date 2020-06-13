@@ -149,6 +149,12 @@ header {
   width: 25%;
 }
 
+.setsuei img{
+  float:left;
+  width:50%;
+}
+
+
 .lesson-icon {
   position: relative;
 }
