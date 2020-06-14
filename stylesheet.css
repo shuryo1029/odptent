@@ -185,12 +185,11 @@ header {
   padding-top:40px;
 }
 
-.dog{
-  float:left;
-}
+
 
 .dog img{
-  width:30%;
+  float:left;
+  width:35%;
   padding:10px 10px 40px 10px;
 }
 
