@@ -189,13 +189,13 @@ header {
 
 .dog img{
   float:left;
-  width:35%;
+  width:50%;
   padding:10px 10px 40px 10px;
 }
 
 .chair img{
-  float:right;
-  width:35%;
+  float:left;
+  width:50%;
   padding:10px 10px 40px 10px;
 }
 
