@@ -344,7 +344,19 @@ footer {
   .setsuei img{
   float:none;
   width:100%;
-  padding:10px 10px 40px 10px;
+  padding:10px 10px 30px 10px;
+}
+  
+  .kinou img{
+  float:none;
+  width:100%;
+  padding:10px 10px 30px 10px;
+}
+
+.sekkei img{
+  float:none;
+  width:100%;
+  padding:10px 10px 30px 10px;
 }
   
 }
