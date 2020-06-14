@@ -340,4 +340,11 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+  
+  .setsuei img{
+  float:none;
+  width:100%;
+  padding:10px 10px 40px 10px;
+}
+  
 }
