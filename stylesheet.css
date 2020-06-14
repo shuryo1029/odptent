@@ -359,4 +359,16 @@ footer {
   padding:10px 10px 30px 10px;
 }
   
+  .dog img{
+  float:none;
+  width:100%;
+  padding:10px 10px 30px 10px;
+}
+
+.chair img{
+  float:none;
+  width:100%;
+  padding:10px 10px 30px 10px;
+}
+  
 }
