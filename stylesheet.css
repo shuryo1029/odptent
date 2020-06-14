@@ -181,6 +181,10 @@ header {
   padding:10px 10px 40px 10px;
 }
 
+.lineup{
+  padding-top:40px;
+}
+
 .dog{
   float:left;
   display:inline-block;
