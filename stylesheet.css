@@ -293,6 +293,7 @@ footer {
 @media all and (max-width: 750px) {
   .top-wrapper h1 {
     font-size: 32px;
+    text-align: center;
   }
 
   .heading h2 {
@@ -323,6 +324,7 @@ footer {
 
   .top-wrapper h1 {
     font-size: 24px;
+    text-align: center;
   }
 
   .top-wrapper p {
