@@ -40,7 +40,7 @@ header {
 
   .top-wrapper {
     width: 100%;
-    margin-bottom: 80px;
+    margin: 80px auto;
     text-align: center;
   }
 
