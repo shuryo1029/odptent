@@ -63,6 +63,9 @@ header {
 }
 
 @media all and (max-width: 750px) {
+  .logo{
+    width:100%;
+  }
   .top-wrapper h1 {
     font-size: 32px;
     text-align: center;
