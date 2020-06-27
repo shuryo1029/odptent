@@ -54,18 +54,12 @@ header {
 }
 
 @media all and (max-width: 1000px) {
-  .lesson {
-    width: 50%;
+  .top-wrapper {
+    width: 100%;
     margin-bottom: 50px;
   }
 
-  .lesson-wrapper {
-    /*height: 1990px;*/
-  }
-
-  footer {
-    text-align: center;
-  }
+  
 }
 
 @media all and (max-width: 750px) {
@@ -106,17 +100,7 @@ header {
     font-size: 14px;
   }
 
-  .lesson {
-    width: 100%;
-  }
 
-  .lesson-wrapper {
-    height: 1700px;
-  }
-
-  .message-wrapper .btn {
-    width: 100%;
-  }
   
  
     
