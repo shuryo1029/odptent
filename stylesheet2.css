@@ -11,6 +11,10 @@ a {
   text-decoration: none;
 }
 
+.contaner{
+  width:100%;
+}
+
   .top-wrapper {
     width: 100%;
     margin-bottom: 50px;
