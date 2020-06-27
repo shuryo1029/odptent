@@ -19,17 +19,6 @@ a {
 
 
 
-
-.header-left {
-  float: left;
-  height:90%;
-}
-
-
-
-
-
-
 @media all and (max-width: 1000px) {
   .top-wrapper {
     width: 100%;
