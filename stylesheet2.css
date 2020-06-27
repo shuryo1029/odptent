@@ -28,6 +28,7 @@ header {
 
 .header-left {
   float: left;
+  height:90%;
 }
 
 .header-right {
