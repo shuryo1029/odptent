@@ -41,6 +41,12 @@ a {
   .logo{
     width:100%;
   }
+  
+    .top-wrapper {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
   .top-wrapper h1 {
     font-size: 32px;
     text-align: center;
@@ -52,6 +58,11 @@ a {
 }
 
 @media all and (max-width: 670px) {
+  
+  .top-wrapper img{
+    width:100%;
+  }
+
   .header-right {
     display: none;
   }
