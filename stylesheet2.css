@@ -40,7 +40,7 @@ header {
 
 .header-right a {
   line-height: 65px;
-  padding: 5px 25px;
+  padding: 0 25px;
   color: black;
   display: block;
   float: left;
