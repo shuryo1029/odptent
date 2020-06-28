@@ -54,6 +54,7 @@ header {
   .top-wrapper {
     width: 100%;
     padding: 120px auto;
+    margin-top:80px;
     text-align: center;
   }
 
@@ -72,6 +73,7 @@ header {
   .top-wrapper {
     width: 100%;
     padding: 120px auto;
+    margin-top:80px;
   }
 
   
@@ -85,6 +87,7 @@ header {
     .top-wrapper {
     width: 100%;
     padding: 120px auto;
+    margin-top:80px;
   }
 
   .top-wrapper h1 {
@@ -118,6 +121,7 @@ header {
   
   .top-wrapper {
     padding: 120px auto;
+    margin-top:80px;
     width:100%;
     text-align: left;
   }
