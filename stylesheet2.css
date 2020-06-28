@@ -71,7 +71,7 @@ header {
 @media all and (max-width: 1000px) {
   .top-wrapper {
     width: 100%;
-    margin-bottom: 50px;
+    padding: 120px auto;
   }
 
   
@@ -84,7 +84,7 @@ header {
   
     .top-wrapper {
     width: 100%;
-    margin-bottom: 50px;
+    padding: 120px auto;
   }
 
   .top-wrapper h1 {
@@ -117,6 +117,7 @@ header {
 
   
   .top-wrapper {
+    padding: 120px auto;
     width:100%;
     text-align: left;
   }
